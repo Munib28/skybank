@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "FastSky",
-  description: "FastSky is a great banking app.",
+  title: "SkyBank",
+  description: "SkyBank is a great modern banking app.",
   icons: {
     icon: "/icons/logo.svg",
   },
