@@ -212,3 +212,5 @@ export const authFormSchema = (type: string) =>
     email: z.string().email(),
     password: z.string().min(8),
   });
+
+// ssn - Social security number
